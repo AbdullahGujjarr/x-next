@@ -21,7 +21,7 @@ export default function Sidebar() {
       </Link>
 
       <button className=" bg-blue-400 text-white rounded-full
-       w-48 h-9 p-3 hover:bg-blue-500
+       w-48 h-9 hover:bg-blue-500 font-semibold
        items-center
        shadow-md hidden xl:inline
       ">Sign In</button>
