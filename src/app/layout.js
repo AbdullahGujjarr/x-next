@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
           <div className=" hidden sm:inline border-r h-screen">
             <Sidebar />
           </div>
-          <div>
+          <div className=" w-2x flex-1">
           {children}
           </div>
 
